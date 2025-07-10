@@ -1,2 +1,2 @@
-## 🔗 Dashboard Looker Studio :
-https://lookerstudio.google.com/reporting/b7f3c140-e9c3-4544-9da8-545f1f314a2b
+## 🔗 Dashboard Looker Studio
+[Klik di sini untuk melihat dashboard](https://lookerstudio.google.com/reporting/b7f3c140-e9c3-4544-9da8-545f1f314a2b)
